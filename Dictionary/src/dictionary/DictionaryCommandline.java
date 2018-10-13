@@ -42,6 +42,8 @@ public class DictionaryCommandline {
             showAllWords();
         } else if(action.equals("search")){
             dictionarySearcher();
+        } else {
+            System.out.print("Nhập sai, mời nhập lại.");
         }
         //dictionaryManagement.changeWord();
         //dictionaryManagement.delWord();
