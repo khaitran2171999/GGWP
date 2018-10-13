@@ -49,6 +49,7 @@ public void insertFromFile() {
         }
     }
     public void dictionaryLookup() {
+        System.out.print("Mời nhập từ: ");
         String findViet = sc.nextLine();
         for (int i = 0; i < dictionary.listWord.size(); i++) {
             if (findViet.equals(dictionary.listWord.get(i).getWord_taget())) {
