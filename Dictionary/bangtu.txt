@@ -1,0 +1,31 @@
+﻿hello	xin chào
+hi	xin chào
+river	dòng sông
+happy	hạnh phúc
+house	ngôi nhà
+mouse	con chuột
+computer	máy tính
+bike	xe đạp
+gate	cái cổng
+door	cửa ra vào
+table	cái bàn
+tree	cây
+green	màu xanh
+red	màu đỏ
+house	ngôi nhà
+sun	mặt trời
+traditional	truyền thống
+bird	chim
+bed	giường
+road	con đường
+happy	hạnh phúc
+funy	vui vẻ
+flower	hoa
+roof	mái nhà
+train	đoàn tàu
+bus	xe buýt
+water	nước
+pen	bút
+book	quyển sách
+run	chạy
+
