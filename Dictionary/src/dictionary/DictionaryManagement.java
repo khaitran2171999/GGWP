@@ -37,10 +37,10 @@ public void insertFromFile() {
                 String line = null;
                 while ((line = reader.readLine()) != null) {
                     String doantu[] = line.split("\t");
-                    Word new_word = new Word();
+                    Word newword = new Word();
                     new_word.setWord_taget(doantu[0]);
                     new_word.setWord_explain(doantu[1]);
-                    dictionary.listWord.add(new_word);
+                    dictionary.listWord.add(newword);
                 }
               
             }
